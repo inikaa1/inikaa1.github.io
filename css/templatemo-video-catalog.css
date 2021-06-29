@@ -537,10 +537,8 @@ video {
     .tm-welcome-text { font-size: 1.4rem; }
 
     #tm-video-container {
-      max-height: 30%;
-      max-width: 100;
-      overflow: none;
-      background-color: #333;
+      margin: 100px;
+      max-hieght: 720px
     }  
   
     #tm-video {
