@@ -404,12 +404,12 @@ h2, p { color: #666666; }
 }
 
 #tm-fixed-header-bg { height: auto; width: 100%; }
-.tm-fixed-header-1 { background-image: url("../img/1. Don Don Don - Play & Win.PNG"); filter: brightness(50%); height: auto; width: 100%; }
-.tm-fixed-header-1_0 { background-image: url("../img/2. Omanji - Play & Win.PNG"); filter: brightness(50%);} height: auto; width: 100%; 
-.tm-fixed-header-1_1 { background-image: url("../img/3. MOA X - New Version of My Ooredoo App_v1.PNG"); filter: brightness(50%); height: auto; width: 100%; }
-.tm-fixed-header-1_2 { background-image: url("../img/4. Mobile Money - Mpitesan.PNG"); filter: brightness(50%); height: auto; width: 100%; }
-.tm-fixed-header-1_3 { background-image: url("../img/5. Voucher Scan.PNG"); filter: brightness(50%); height: auto; width: 100%; }
-.tm-fixed-header-1_4 { background-image: url("../img/6. Gaming Arcade.PNG"); filter: brightness(50%); height: auto; width: 100%; }
+.tm-fixed-header-1 { background-image: url("../img/1. Don Don Don - Play & Win.PNG"); filter: brightness(50%);}
+.tm-fixed-header-1_0 { background-image: url("../img/2. Omanji - Play & Win.PNG"); filter: brightness(50%);}
+.tm-fixed-header-1_1 { background-image: url("../img/3. MOA X - New Version of My Ooredoo App_v1.PNG"); filter: brightness(50%);}
+.tm-fixed-header-1_2 { background-image: url("../img/4. Mobile Money - Mpitesan.PNG"); filter: brightness(50%);}
+.tm-fixed-header-1_3 { background-image: url("../img/5. Voucher Scan.PNG"); filter: brightness(50%);}
+.tm-fixed-header-1_4 { background-image: url("../img/6. Gaming Arcade.PNG"); filter: brightness(50%);}
 .tm-fixed-header-2 { background-image: url(../img/about-1.jpg); }
 .tm-fixed-header-3 { background-image: url(../img/contact-1.jpg); }
 
