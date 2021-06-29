@@ -538,7 +538,8 @@ video {
 
     #tm-video-container {
       max-height: 30%;
-      overflow: hidden;
+      max-width: 100;
+      overflow: none;
       background-color: #333;
     }  
   
