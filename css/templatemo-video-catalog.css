@@ -538,6 +538,7 @@ video {
 
      #tm-video-container {
          max-height: 500px;
+         max-width: 100%;
          overflow: hidden;
          background-color: #333;
      }
@@ -545,6 +546,7 @@ video {
      #tm-video {
          max-width: 100%;
          width: 100%;
+         margin-left: 100px;
          height: auto;
      }
 
