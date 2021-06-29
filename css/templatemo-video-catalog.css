@@ -536,7 +536,7 @@ video {
     .tm-welcome-container-inner { margin-top: 150px; }
     .tm-welcome-text { font-size: 1.4rem; }
 
-    #tm-video {
+    .tm-video {
         width: 888px;
         height: 500px;
     }
